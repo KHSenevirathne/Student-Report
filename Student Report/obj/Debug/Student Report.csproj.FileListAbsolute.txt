@@ -1,0 +1,21 @@
+C:\Users\User\Desktop\Student Report\Student Report\bin\Debug\Student Report.exe.config
+C:\Users\User\Desktop\Student Report\Student Report\bin\Debug\Student Report.exe
+C:\Users\User\Desktop\Student Report\Student Report\bin\Debug\Student Report.pdb
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student Report.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student_Report.Form1.resources
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student_Report.Properties.Resources.resources
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student Report.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student Report.exe
+C:\Users\User\Desktop\Student Report\Student Report\obj\Debug\Student Report.pdb
+C:\Users\User\Desktop\Other\Student Report(Advanced)\Student Report\bin\Debug\Student Report.exe.config
+C:\Users\User\Desktop\Other\Student Report(Advanced)\Student Report\obj\Debug\Student Report.exe
+C:\Users\User\Desktop\Other\Student Report(Advanced)\Student Report\obj\Debug\Student Report.pdb
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\bin\Debug\Student Report.exe.config
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student Report.exe
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student Report.pdb
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\bin\Debug\Student Report.exe
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\bin\Debug\Student Report.pdb
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student Report.csprojResolveAssemblyReference.cache
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student_Report.Form1.resources
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student_Report.Properties.Resources.resources
+E:\Studies\IDM\Praticals\C#\ZTesting programme\Student Report(Advanced)\Student Report\obj\Debug\Student Report.csproj.GenerateResource.Cache
